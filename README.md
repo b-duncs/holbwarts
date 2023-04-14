@@ -1,7 +1,5 @@
 # holbwarts
 
-&nbsp;
-&nbsp;
 ## Project Info
 You and your team have been contacted by a local, elusive, client. 
 They have a new offering and they need a responsive website built for them in order to market it online; they know you’ve got just the right skill set to craft their vision into reality. 
