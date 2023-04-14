@@ -8,8 +8,6 @@ Instead, they hand over to you a simple sentence, which they want you to interpr
 The sentence they give you is:
 > “Draco Dormiens Nunquam Titillandus”
 
-&nbsp;
-&nbsp;
 ## Tasks
     -Build a 1-3 page website for the product you believe they are selling based on their prompt
     -Your website must be locally hosted
